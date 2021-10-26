@@ -18,9 +18,3 @@
 - Email [Follow Up Here](mailto:jakeslee66@gmail.com)
 - Blog https://blog.imoe.tech
 
-## 👀 I'm recently working at
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jakeslee&repo=aliyundrive-webdav&show_owner=true)](https://github.com/jakeslee/aliyundrive-webdav)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jakeslee&repo=aliyundrive&show_owner=true)](https://github.com/jakeslee/aliyundrive)
-
