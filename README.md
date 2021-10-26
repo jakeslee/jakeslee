@@ -20,10 +20,7 @@
 
 ## 👀 I'm recently working at
 
-<a href="https://github.com/jakeslee/aliyundrive-webdav">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jakeslee&repo=aliyundrive-webdav" />
-</a>
-<a href="https://github.com/jakeslee/aliyundrive">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jakeslee&repo=aliyundrive" />
-</a>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jakeslee&repo=aliyundrive-webdav&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jakeslee&repo=aliyundrive&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
